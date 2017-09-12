@@ -3,6 +3,13 @@ User stories:
 -  I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.
 -  When I visit that shortened URL, it will redirect me to my original link.
 
+Test values:
+
+3309
+3441
+1111
+2117
+
 Welcome to the Glitch BETA
 =========================
 
